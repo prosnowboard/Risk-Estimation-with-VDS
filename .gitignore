@@ -1,0 +1,11 @@
+# Log Files
+*.log
+
+# Folder & Files
+/Documents
+/Vissim Network/base_network.results
+/Python Code/Dataset Sample
+
+# Vissim Data Files
+*.fzp
+*.att
